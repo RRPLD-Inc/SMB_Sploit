@@ -1,4 +1,4 @@
-# smb-sploit
+# SMB_Sploit
 Windows password bruteforcer
 # usage
 - Download the precompiled executable <a href="https://github.com/rrpld/smb-sploit/releases">here</a>
